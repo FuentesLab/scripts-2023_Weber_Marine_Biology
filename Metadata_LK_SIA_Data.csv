@@ -1,0 +1,3 @@
+﻿TurtleID,Capture Date,LifeStage,Tissue Type,SCL standard,Weight,BCI,d15N,d13C
+Individual ID assigned to each turtle,Date of capture,Small (< 40 cm straight carapace length),Epi shoulder = skin biopsy taken from shoulder area,Measurement of straight carapace length from notch to tip (in cm),Weight (in kg),"Body Condition Index, calculated using the equation BCI = body mass/(SCL^3 x 10^4) ",δ15N,δ13C
+,,Large (>40 cm straight carapace length),,,,,,
